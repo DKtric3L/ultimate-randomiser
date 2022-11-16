@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/DKtric3L/ultimate_randomiser/master/module.json
+https://raw.githubusercontent.com/DKtric3L/ultimate-randomiser/master/module.json
