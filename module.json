@@ -18,7 +18,11 @@
   "system": "TheWitcherTRPG",
   "packs": [
     {
-
+      "name": "random-priklyuchenie",
+      "label": "Случайное Приключение",
+      "path": "packs/random-priklyuchenie.db",
+      "type": "RollTable",
+      "system": "TheWitcherTRPG"
     }
   ],
   "socket": false,
