@@ -46,7 +46,7 @@
   "Manifest": "https://raw.githubusercontent.com/DKtric3L/The-Ultimate-Witcher/master/module.json"
   }] 
   }, 
-"url": "https://github.com/DKtric3L/ultimate-randomiser",
+"url": "https://github.com/DKtric3L/ultimate-randomiser.git",
 "manifest": "https://raw.githubusercontent.com/DKtric3L/ultimate-randomiser/master/module.json",
 "download": "https://github.com/DKtric3L/ultimate-randomiser/archive/refs/heads/main.zip"
 }
